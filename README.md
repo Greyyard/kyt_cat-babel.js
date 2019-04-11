@@ -2,7 +2,7 @@
 
 Description
 
-Babel.js est un compilateur Javascript populaire qui permet de transformer un language de code source récent en un langage plus ancien afin de permettre une compatibilité avec tous les navigateurs.
+Babel.js est un compilateur Javascript populaire qui permet de transformer un language de code source récent avec la version ES6 en un langage plus ancien avec la version ES5 afin de permettre une compatibilité avec certains navigateurs que la version ES6 ne permet pas.
 
 Installations requises 
 
