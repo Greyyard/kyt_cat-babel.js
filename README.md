@@ -20,7 +20,7 @@ npm init
 
 -les packages babel-cli et babel-preset-es2015 avec :
 
-npm install babel-cli babel-preset-es2015 --save-dev
+npm install babel-cli babel-preset-es2015 --save -dev
 
 -Pour vérifier la version de nodeJS:
 
